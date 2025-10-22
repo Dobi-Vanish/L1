@@ -5,7 +5,6 @@ import (
 	"math"
 )
 
-// Point представляет точку на плоскости с приватными полями
 type Point struct {
 	x float64
 	y float64
